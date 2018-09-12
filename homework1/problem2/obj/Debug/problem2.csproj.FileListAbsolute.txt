@@ -1,0 +1,10 @@
+E:\大二上\C#程序设计\CSharpHomework\homework1\problem2\bin\Debug\problem2.exe.config
+E:\大二上\C#程序设计\CSharpHomework\homework1\problem2\bin\Debug\problem2.exe
+E:\大二上\C#程序设计\CSharpHomework\homework1\problem2\bin\Debug\problem2.pdb
+E:\大二上\C#程序设计\CSharpHomework\homework1\problem2\obj\Debug\problem2.csprojAssemblyReference.cache
+E:\大二上\C#程序设计\CSharpHomework\homework1\problem2\obj\Debug\problem2.Form1.resources
+E:\大二上\C#程序设计\CSharpHomework\homework1\problem2\obj\Debug\problem2.Properties.Resources.resources
+E:\大二上\C#程序设计\CSharpHomework\homework1\problem2\obj\Debug\problem2.csproj.GenerateResource.cache
+E:\大二上\C#程序设计\CSharpHomework\homework1\problem2\obj\Debug\problem2.csproj.CoreCompileInputs.cache
+E:\大二上\C#程序设计\CSharpHomework\homework1\problem2\obj\Debug\problem2.exe
+E:\大二上\C#程序设计\CSharpHomework\homework1\problem2\obj\Debug\problem2.pdb
