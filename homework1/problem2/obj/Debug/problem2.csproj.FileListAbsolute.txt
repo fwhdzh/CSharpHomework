@@ -8,3 +8,13 @@ E:\大二上\C#程序设计\CSharpHomework\homework1\problem2\obj\Debug\problem2
 E:\大二上\C#程序设计\CSharpHomework\homework1\problem2\obj\Debug\problem2.csproj.CoreCompileInputs.cache
 E:\大二上\C#程序设计\CSharpHomework\homework1\problem2\obj\Debug\problem2.exe
 E:\大二上\C#程序设计\CSharpHomework\homework1\problem2\obj\Debug\problem2.pdb
+E:\CSharpHomework\homework1\problem2\bin\Debug\problem2.exe.config
+E:\CSharpHomework\homework1\problem2\bin\Debug\problem2.exe
+E:\CSharpHomework\homework1\problem2\bin\Debug\problem2.pdb
+E:\CSharpHomework\homework1\problem2\obj\Debug\problem2.csprojAssemblyReference.cache
+E:\CSharpHomework\homework1\problem2\obj\Debug\problem2.Form1.resources
+E:\CSharpHomework\homework1\problem2\obj\Debug\problem2.Properties.Resources.resources
+E:\CSharpHomework\homework1\problem2\obj\Debug\problem2.csproj.GenerateResource.cache
+E:\CSharpHomework\homework1\problem2\obj\Debug\problem2.csproj.CoreCompileInputs.cache
+E:\CSharpHomework\homework1\problem2\obj\Debug\problem2.exe
+E:\CSharpHomework\homework1\problem2\obj\Debug\problem2.pdb
